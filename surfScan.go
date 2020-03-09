@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/Dimo/go-masscan"
+	"github.com/Smolkar/go-masscan"
+
 )
 
 func main(){
